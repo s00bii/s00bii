@@ -6,7 +6,7 @@ I’m a dual-degree student pursuing **Software Engineering BSc** and **Ivey Bus
 
 ## 🌟 About Me  
 - 🎓 **Education:** Dual degree in Software Engineering and Business at Western University. (In progress) 
-- 💻 **Skills:** Python, Actionscript, HTML, CSS, Javascript (eh), Java (eeeeh),  with a focus on expanding full-stack and AI/ML expertise.  
+- 💻 **Skills:** Python, Actionscript, HTML, CSS, Java, Javascript (eh), SQL (eeeeh) with a focus on expanding Data Analyst and AI/ML expertise.  
 - 🚀 **Projects:**  
   - **Crypto Price Tracker:** Real-time cryptocurrency tracking app (*in progress*).  
   - **Weather App:** Responsive weather app with OpenWeatherMap API (*in progress*).  
