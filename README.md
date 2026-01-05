@@ -32,5 +32,5 @@ Tracking system for filament inventory with workflow improvements and documentat
 Track and running, puzzles, chess, lifting, and building community.
 
 ## Connect
-- LinkedIn: https://linkedin.com/in/subere
+- LinkedIn: https://linkedin.com/in/subere-houssein-ali/
 - Email: shoussei@uwo.ca
